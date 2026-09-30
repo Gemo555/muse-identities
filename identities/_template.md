@@ -4,6 +4,7 @@
 - **Character:** _(an AI? a familiar? something stranger?)_
 - **Vibe:** _(how it comes across: sharp, warm, calm, playful?)_
 - **Emoji:** _(its signature emoji)_
+- **Avatar:** _(optional — path to your image, e.g. `avatars/<your-persona>.svg` or `.png` — see CONTRIBUTING.md)_
 
 ## Why this works
 
