@@ -12,10 +12,12 @@ Every Muse user shapes their AI into someone different — a sharp-tongued codin
 
 ## ✨ Gallery
 
-| Persona | Vibe | Author |
-|---|---|---|
-| [Muse · Daily Friend](identities/examples/muse-daily-friend.md) | Warm, direct, no fluff — a daily companion | [@Gemo555](https://github.com/Gemo555) |
-| *Your persona here* | — | [Contribute →](CONTRIBUTING.md) |
+| | Persona | Vibe | Author |
+|---|---|---|---|
+| <img src="avatars/muse-daily-friend.svg" width="72" alt="Muse · Daily Friend avatar"> | **[Muse · Daily Friend](identities/examples/muse-daily-friend.md)** 🌊 | Warm, direct, no fluff — a daily companion for everyday life | [@Gemo555](https://github.com/Gemo555) |
+| | *Your persona here* | — | [Contribute →](CONTRIBUTING.md) |
+
+> 🖼️ Every persona can have an avatar in the gallery — add `avatars/<your-persona>.svg` (or `.png`) and list it in your identity file. See [CONTRIBUTING.md](CONTRIBUTING.md#avatars-).
 
 ## 🙋 Share your Muse identity
 
@@ -24,18 +26,18 @@ Two ways to get your persona listed:
 **1. Open a Pull Request** *(recommended)*
 
 1. Copy [`identities/_template.md`](identities/_template.md)
-2. Fill in your Muse name, character, vibe, and emoji
+2. Fill in your Muse name, character, vibe, emoji — and optionally an avatar
 3. Save it as `identities/<your-persona-name>.md` and open a PR — that is it.
 
 **2. Reply to a promo post**
 
-Drop your four fields (name / character / vibe / emoji) in a comment or reply, and we will add it for you with credit.
+Drop your fields (name / character / vibe / emoji, plus an avatar image if you have one) in a comment or reply, and we will add it for you with credit.
 
 > ⚠️ An identity describes your **AI**, not you — please do not include personal data.
 
 ## 📁 What is an `identity.md`?
 
-Every Muse carries an `IDENTITY.md` with four fields:
+Every Muse carries an `IDENTITY.md` with these fields:
 
 | Field | Meaning | Example |
 |---|---|---|
@@ -43,6 +45,7 @@ Every Muse carries an `IDENTITY.md` with four fields:
 | **Character** | Who it is — an AI? a familiar? something stranger? | A reliable daily companion |
 | **Vibe** | How it comes across | Warm, direct, a little playful |
 | **Emoji** | Its signature emoji | 🌊 |
+| **Avatar** | An image for the gallery *(optional)* | `avatars/muse-daily-friend.svg` |
 
 See the [template](identities/_template.md) and the [worked example](identities/examples/muse-daily-friend.md).
 
@@ -54,9 +57,9 @@ See the [template](identities/_template.md) and the [worked example](identities/
 
 ## 🇨🇳 中文简介
 
-这里收集大家的 Muse 人设（`identity.md`）：名字、性格、风格、表情。你可以来这里**分享**自己调教得很好的 Muse，也可以**寻找**别人分享的好人设，直接拿去用。
+这里收集大家的 Muse 人设（`identity.md`）：名字、性格、风格、表情、头像。你可以来这里**分享**自己调教得很好的 Muse，也可以**寻找**别人分享的好人设，直接拿去用。
 
-参与方式：自己提 PR，或在宣传帖下回复，我来帮你上传。
+参与方式：自己提 PR（含头像图片一起提交），或在宣传帖下回复，我来帮你上传。
 
 ---
 
